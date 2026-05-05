@@ -1,0 +1,17 @@
+[project]
+name = "regularization_heuristic_discovery_mli"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "arviz>=0.20.0",
+    "flax>=0.10.7",
+    "graphviz>=0.20.3",
+    "ipykernel>=6.29.5",
+    "numpyro>=0.16.1",
+    "optax>=0.2.8",
+    "pyro-ppl>=1.9.1",
+    "seaborn>=0.13.2",
+    "torch>=2.2.0",
+]
